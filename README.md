@@ -133,8 +133,9 @@ EMG·IMU 센서 융합 파워리프팅 스쿼트 분석까지 지원하는 파�
 
 
 ## 🧩 **Clone Code**
+```
 git clone https://github.com/Biomedical-Signal-Processing-Lab/smart_gym_project.git
-
+```
 
 ## ⚙️ **Steps to Build**
 
