@@ -130,15 +130,7 @@ EMG·IMU 센서 융합 파워리프팅 스쿼트 분석까지 지원하는 파�
 - 개인 맞춤 피드백을 통한 **훈련 효율 극대화**  
 - AI + 센서 융합 **스마트 피트니스 솔루션 실현**
 
----
 
-## 🎬 **시연 예시**
-
-<p align="center">
-  <img src="assets/demo.gif" alt="Demo" width="70%">
-</p>
-
----
 
 ## 🧩 **Clone Code**
 git clone https://github.com/Biomedical-Signal-Processing-Lab/smart_gym_project.git
