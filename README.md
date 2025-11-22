@@ -2,7 +2,7 @@
 
 | 이름 | 역할 | 주요 담당 | 메일 |
 | --- | --- | --- | --- |
-| **서민솔** | 팀장 | 프로젝트 총괄, 운동 분류 모델 설계 | minsolseo4@gmail.com |
+| **서민솔** | 팀장 | 프로젝트 총괄, 운동 분류 모델 설계, heilo, gstreamer | minsolseo4@gmail.com |
 | **이동현** | 부팀장 | 통합 어플리케이션 개발 | chlrhxmsxms@naver.com |
 | **유종민** | 센서 | 센서 신호처리 AI 개발, 3D 모델링 | dbwhdals1030@naver.com |
 | **윤찬민** | AI 개발 | 운동 분류 모델 구현 | cchanmini55@gmail.com |
@@ -174,8 +174,6 @@ source .sgym_venv/bin/activate
 
 # 2) 프로젝트 실행
 python main.py
-
-
 ---
 
 > 💡 **Tip:**  
@@ -295,13 +293,6 @@ sudo apt install -y v4l-utils libcamera-apps
 - PyQt 대시보드에서 게이지/그래프 형태로 표시  
 - 결과는 `.tsv` 형식(`window_features.tsv`, `reps_pred_dual.tsv`)으로 자동 저장
 
-### 7. 웨어러블 케이스 모델링
-<img width="817" height="688" alt="image" src="https://github.com/user-attachments/assets/db870a0e-abe2-4cee-9077-f69e6831b411" />
-
-### 8. 웨어러블 센서 기기 착용 방식
-<img width="694" height="938" alt="image" src="https://github.com/user-attachments/assets/7d32eb56-e8d7-4581-b838-29756dc52e43" />
-
-
 
 ### 🧠 요약
 - **FI (Fatigue Index)** → 근육 피로 누적 정도  
@@ -339,11 +330,4 @@ AI Smart Gym 프로젝트는 라즈베리파이5와 Hailo-8을 이용해 실시�
 앞으로는 EMG 자동 보정과 리포트 기능을 개선해 완성도를 높일 계획이다.
 
 ---
-
-## 📎 **Appendix**
-
-[피로도 분석 논문1.pdf](https://github.com/user-attachments/files/23041197/default.pdf)
-[피로도 분석 논문2.pdf](https://github.com/user-attachments/files/23042535/default.pdf)
-[피로도 분석 논문3.pdf](https://github.com/user-attachments/files/23042548/s41598-019-41860-4.pdf)
-
 
